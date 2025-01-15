@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">My food app</string>
+    <string name="choose_your_location">choose your location</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="view_shop_on_maps">View shop on maps</string>
+</resources>
